@@ -1,5 +1,5 @@
 # RetractableToolbar
-##COMING SOON!
+##IS NOW RELEASED!
 
 ![alt tag](http://i.giphy.com/3oEduTiPtJGG9Q23Xq.gif)
 
@@ -9,19 +9,26 @@ Retractable Toolbar it is a utility to give the effect Retractable your toolbar!
 
 Retractable Toolbar is pushed to JCenter, so you just need to add the following dependency to your `build.gradle`.
 ```
-Coming Soon!
+compile 'it.michelelacorte.retractabletoolbar:library:1.0.0'
 ```
 
 In alternative you can use AAR repository with:
 
 ```
-Coming Soon!
+allprojects {
+    repositories {
+        maven { url "https://dl.bintray.com/michelelacorte/maven/" }
+        jcenter()
+        mavenCentral()
+
+    }
+}
 ```
 
 And add this dependecies
 
 ```
-Coming Soon!
+compile 'it.michelelacorte.retractabletoolbar:library:1.0.0@aar'
 ```
 
 In your `MainActivity.java`
