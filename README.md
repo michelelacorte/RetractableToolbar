@@ -7,7 +7,7 @@ Retractable Toolbar it is a utility to give the effect Retractable your toolbar!
 
 ##USAGE
 
-Elastic Progress Bar is pushed to JCenter, so you just need to add the following dependency to your `build.gradle`.
+Retractable Toolbar is pushed to JCenter, so you just need to add the following dependency to your `build.gradle`.
 ```
 Coming Soon!
 ```
@@ -44,7 +44,7 @@ Android API 21+
 
 **v1.0.0**
 - Support API 21+
-- Support RecyclerView list
+- Support `RecyclerView` list
 
 ##CREDITS
 
