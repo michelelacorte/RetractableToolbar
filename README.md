@@ -1,5 +1,4 @@
 # RetractableToolbar
-##IS NOW RELEASED!
 
 [![alt tag](http://www.android-gems.com/badge/michelelacorte/RetractableToolbar.svg)](http://www.android-gems.com/lib/michelelacorte/RetractableToolbar?lib_id=709)
 
