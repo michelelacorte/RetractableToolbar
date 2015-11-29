@@ -1,5 +1,7 @@
 # RetractableToolbar
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-RetractableToolbar-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2844)
+
 [![alt tag](http://www.android-gems.com/badge/michelelacorte/RetractableToolbar.svg)](http://www.android-gems.com/lib/michelelacorte/RetractableToolbar?lib_id=709)
 
 ![alt tag](http://i.giphy.com/3oEduTiPtJGG9Q23Xq.gif)
