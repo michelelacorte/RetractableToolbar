@@ -11,9 +11,10 @@
 
 [![alt tag](http://www.android-gems.com/badge/michelelacorte/RetractableToolbar.svg)](http://www.android-gems.com/lib/michelelacorte/RetractableToolbar?lib_id=709)
 
-![alt tag](http://i.giphy.com/3oEduTiPtJGG9Q23Xq.gif)
-
 Retractable Toolbar it is a utility to give the effect Retractable your toolbar!!
+
+![alt tag](https://github.com/michelelacorte/RetractableToolbar/blob/master/RetractableToolbarExample.gif)
+
 
 ##DONATIONS
 
