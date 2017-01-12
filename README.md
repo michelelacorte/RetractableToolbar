@@ -90,6 +90,8 @@ Android API 21+
 
 Author: Michele Lacorte (micky1995g@gmail.com)
 
+Follow my [Google+](https://plus.google.com/u/0/collection/McidZB)
+
 ##LICENSE
 
 ```
